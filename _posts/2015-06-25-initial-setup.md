@@ -6,9 +6,7 @@ category: tech
 tags: [ 'tutorial' ]
 ---
 
-All features of { Personal } are controlled by setting values to variables that are defined in the
-\_config.yml file. Let's start with the initial variables that you have to set before
-serving your { Personal } website for the first time.
+Some text.
 
 ### Essential variables
 
