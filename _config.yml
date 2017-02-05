@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "I'm pink therefore I'm ham"
-  - text: "It's been out for 5 months in Japan, where's yours?"
+  - text: "I'm pink, therefore I'm ham."
+  - text: "...out for 5 months in Japan, where's yours?"
 
 me-img: "/img/jetpacktocat.png"
 
